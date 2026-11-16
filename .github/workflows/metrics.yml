@@ -33,10 +33,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_repositories: yes
           plugin_repositories_featured: roedzaa/roedzainnature-v2, roedzaa/Bencoolenia, roedzaa/radar-kognitif
           plugin_achievements: yes
